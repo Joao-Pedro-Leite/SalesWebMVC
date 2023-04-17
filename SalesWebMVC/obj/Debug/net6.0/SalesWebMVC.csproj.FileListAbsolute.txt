@@ -1,0 +1,1401 @@
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.staticwebassets.runtime.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.exe
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.deps.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.runtimeconfig.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.pdb
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.AssemblyReference.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfoInputs.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfo.cs
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CoreCompileInputs.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cs
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.SalesWebMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.SalesWebMVC.props
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalesWebMVC.props
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SalesWebMVC.props
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\bundle\SalesWebMVC.styles.css
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\projectbundle\SalesWebMVC.bundle.scp.css
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\refint\SalesWebMVC.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.pdb
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.genruntimeconfig.cache
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\ref\SalesWebMVC.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Humanizer.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CopyComplete
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MySqlConnector.dll
+D:\source\repos\C#Udemy\Modulo-18-ASP.NetMvc\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.staticwebassets.runtime.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.exe
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.deps.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.runtimeconfig.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.pdb
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Humanizer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MySqlConnector.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.AssemblyReference.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfoInputs.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfo.cs
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CoreCompileInputs.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cs
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.SalesWebMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.SalesWebMVC.props
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalesWebMVC.props
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SalesWebMVC.props
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\bundle\SalesWebMVC.styles.css
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\projectbundle\SalesWebMVC.bundle.scp.css
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CopyComplete
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\refint\SalesWebMVC.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.pdb
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.genruntimeconfig.cache
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\ref\SalesWebMVC.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\mscorlib.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\netstandard.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Console.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Core.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Memory.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Web.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Windows.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\OS-6-MELHORES\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\appsettings.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.staticwebassets.runtime.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.exe
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.deps.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.runtimeconfig.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\SalesWebMVC.pdb
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\mscorlib.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\netstandard.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Console.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Data.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Memory.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Web.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Windows.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Humanizer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\MySqlConnector.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.AssemblyReference.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfoInputs.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.AssemblyInfo.cs
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CoreCompileInputs.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.RazorAssemblyInfo.cs
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.SalesWebMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.SalesWebMVC.props
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SalesWebMVC.props
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SalesWebMVC.props
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\bundle\SalesWebMVC.styles.css
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\scopedcss\projectbundle\SalesWebMVC.bundle.scp.css
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.csproj.CopyComplete
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\refint\SalesWebMVC.dll
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.pdb
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\SalesWebMVC.genruntimeconfig.cache
+D:\OS-6-MELHORES - Copia\ASP.NetMvc-C#\SalesWebMVC\SalesWebMVC\obj\Debug\net6.0\ref\SalesWebMVC.dll

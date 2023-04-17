@@ -1,0 +1,57 @@
+﻿@model SalesWebMVC.Models.ViewModels.SalesRecordsFormViewModel
+
+@{
+    ViewData["Title"] = "AllSales";
+}
+
+<h1>Vendas</h1>
+
+<p>
+    <a asp-action="Create" asp-route-id="@Model.SellerId" class="btn btn-dark">Registrar nova venda</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr class="table-active">
+            <th>
+                Id 
+            </th>
+            <th>
+                Data da Venda
+            </th>
+            <th>
+                Valor
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TemplateSale.Status)
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.AllSales) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td class="botaos">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-info">Editar Status</a> 
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+    <a asp-controller="Sellers" asp-action="Index" class="btn btn-primary">Voltar</a>
+</div>

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SalesWebMVC.Models.Department>
+
+@{
+    ViewData["Title"] = "Departmentos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn  btn-primary" >Registrar Departamento</a>
+</p>
+<table class="table table-striped ">
+    <thead>
+        <tr class="table-primary">
+            <th>
+                Tipo de Departamento
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td class="botaos">
+                <a asp-action="Edit" asp-route-id="@item.Id"  class="btn btn-outline-secondary">Editar</a> 
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Deletar</a>  
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
